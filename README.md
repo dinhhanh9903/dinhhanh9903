@@ -16,28 +16,28 @@
 <br>
 <div align="center">
   <a href="#" title="Python">
-    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+    <img src="https://img.icons8.com/color/64/000000/python.png"/>
   </a>
   <a href="#" title="C++">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+    <img src="https://img.icons8.com/color/64/000000/c-plus-plus-logo.png"/>
   </a>
   <a href="#" title="PHP">
-    <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+    <img src="https://img.icons8.com/officel/64/000000/php-logo.png"/>
   </a>
   <a href="#" title="GitHub">
-    <img src="https://img.icons8.com/color/48/000000/github.png"/>
+    <img src="https://img.icons8.com/color/64/000000/github.png"/>
   </a>
   <a href="#" title="C#">
-    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+    <img src="https://img.icons8.com/color/64/000000/c-sharp-logo.png"/>
   </a>
   <a href="#" title="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+    <img src="https://img.icons8.com/color/64/000000/html-5--v1.png"/>
   </a>
   <a href="#" title="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+    <img src="https://img.icons8.com/color/64/000000/css3.png"/>
   </a>
   <a href="#" title="Bootstrap">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+    <img src="https://img.icons8.com/color/64/000000/bootstrap.png"/>
   </a>
 </div>
 
