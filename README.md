@@ -7,7 +7,7 @@
 <div align="padding-left: 20px;">
   <p>👋 Xin chào! Tôi là <strong>Nguyễn Đình Hạnh</strong></p>
   <p>🎂 Ngày sinh: 09/09/2003</p>
-  <p>🎓 Trường Đại học Thủy Lợi(TLU)</p>
+  <p>🎓 Tôi học tại Trường Đại học Thủy Lợi(TLU)</p>
   <p>📚 Chuyên ngành: Hệ thống Thông tin</p>
 </div>
 
@@ -26,7 +26,7 @@
   <a href="mailto:hanhkk0909@gmail.com" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="shin-email" />
   </a>
-  <a href="https://youtube.com/@trungquandev" target="blank">
+  <a href="#" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="shin-youtube" />
   </a>
 </div>
