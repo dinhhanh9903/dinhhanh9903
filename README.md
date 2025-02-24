@@ -12,7 +12,36 @@
 </div>
 
 <br>
+<h2 align="center">🛠 Languages and Tools 🛠</h2>
+<br>
+<div align="center">
+  <a href="#" title="Python">
+    <img src="https://img.icons8.com/color/48/000000/python.png"/>
+  </a>
+  <a href="#" title="C++">
+    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
+  </a>
+  <a href="#" title="PHP">
+    <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/>
+  </a>
+  <a href="#" title="GitHub">
+    <img src="https://img.icons8.com/color/48/000000/github.png"/>
+  </a>
+  <a href="#" title="C#">
+    <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/>
+  </a>
+  <a href="#" title="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
+  </a>
+  <a href="#" title="CSS3">
+    <img src="https://img.icons8.com/color/48/000000/css3.png"/>
+  </a>
+  <a href="#" title="Bootstrap">
+    <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
+  </a>
+</div>
 
+<br>
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
 <!-- https://icons8.com -->
