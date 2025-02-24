@@ -4,7 +4,7 @@
 
 <h2 align="center">🚀 About Me 🚀</h2>
 <br>
-<div align="center">
+<div align="padding-left: 20px;">
   <p>👋 Xin chào! Tôi là <strong>Nguyễn Đình Hạnh</strong></p>
   <p>🎂 Ngày sinh: 09/09/2003</p>
   <p>🎓 Trường Đại học Thủy Lợi(TLU)</p>
