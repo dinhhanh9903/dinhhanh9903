@@ -38,11 +38,6 @@
   <a href="#" title="MySQL"><img src="https://img.icons8.com/color/64/000000/mysql-logo.png"/></a>
 </div>
 
-<!-- Thêm phần GitHub Streak Stats -->
-<br>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dinhhanh9903&theme=radical" alt="GitHub Streak" />
-</div>
 
 <h2 align="center">👽 Where to find me 👽</h2>
 <br>
@@ -61,11 +56,6 @@
   </a>
 </div>
 
-<!-- Thêm phần Profile Views Counter -->
-<br>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dinhhanh9903&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
 
 <h2 align="center">📑 My Favorites Quote 📑</h2>
 <br>
@@ -73,11 +63,5 @@
   <img src="svg/shin-quotes.svg" width="846" height="150" />
 </a>
 
-<!-- Thêm phần Activity Graph -->
-<br>
-<h2 align="center">📈 Contribution Graph 📈</h2>
-<br>
-<div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=dinhhanh9903&theme=react-dark" alt="Contribution Graph" />
-</div>
+
 
